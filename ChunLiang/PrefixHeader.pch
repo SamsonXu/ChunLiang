@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  ChunLiang
+//
+//  Created by admin on 2018/1/22.
+//  Copyright © 2018年 ChunLiang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIImageView+WebCache.h"
+#import "AFNetworking.h"
+#import "MBProgressHUD.h"
+#import "MJExtension.h"
+#import "Masonry.h"
+#import "Define.h"
+#import "MyControl.h"
+#endif /* PrefixHeader_pch */
